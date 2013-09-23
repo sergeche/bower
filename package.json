@@ -1,6 +1,6 @@
 {
-  "name": "bower",
-  "version": "1.2.6",
+  "name": "chewer",
+  "version": "1.0.0",
   "description": "The browser package manager.",
   "author": "Twitter",
   "licenses": [
@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/bower/bower.git"
+    "url": "git://github.com/sergeche/bower.git"
   },
   "main": "lib",
   "homepage": "http://bower.io",
@@ -73,7 +73,7 @@
     "test": "grunt test"
   },
   "bin": {
-    "bower": "bin/bower"
+    "chewer": "bin/chewer"
   },
   "preferGlobal": true
 }
